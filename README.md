@@ -1,4 +1,4 @@
 # CEN 4802
 Kevin Keating
 
-This program is meant to run two different methods that calculate the sum total of a 200,000,000 integer array with each value randomly selected between 1 and 10. The methods will then run simultaniously. The goal of this program is to see which sum method will complete it's calculations first. The time it takes to complete each sumation will then be displayed in milliseconds.
+This program is meant to load a jagged array with a size of 50. Each line will be assigned a random amount of columns between 1 and 20 that will then be populated sequentially. Meaning that the next column will be 1 + whatever was in the previous column. The jagged array will then be displayed along with the sum and average.
